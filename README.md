@@ -10,4 +10,6 @@ There are other concepts but these are what this course focus on.
 
 ## Prerequsites
 
-[Lesson 1](lesson1/lesson1.md)
+## Begin!
+
+[Lesson 1](lesson1/lesson1.1.md)
