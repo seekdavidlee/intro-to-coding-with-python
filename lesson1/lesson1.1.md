@@ -28,10 +28,4 @@ This is usually how a programmer might spell out the code. By the way, the code 
 
 ## Excercise
 
-Print out the following text.
-
-```
-I love coding!
-```
-
 Download this [file](/lesson1/exe1.1.py) to complete the excercise. Once you have completed, proceed to [Lesson 1.2](/lesson1/lesson1.2.md).
