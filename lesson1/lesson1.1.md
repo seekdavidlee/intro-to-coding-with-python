@@ -31,7 +31,7 @@ This is usually how a programmer might spell out the code. By the way, the code 
 Print out the following text.
 
 ```
-I love Python!
+I love coding!
 ```
 
 [Excercise file](/lesson1/exe1.1.py)
